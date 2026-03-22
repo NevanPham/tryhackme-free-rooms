@@ -53,8 +53,9 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 | **[Hard CTF](#hard-ctf)**                         |     **40**      |
 | **[Misc](#misc)**                                 |     **40**      |
 | **[Special Events](#special-events)**             |     **10**      |
+| **[Cloud](#cloud)**                               |     **2**       |
 | **[Container Security](#container-security)**     |      **2**      |
-| **Total Rooms:**                                  |   **>= 393**    |
+| **Total Rooms:**                                  |   **>= 395**    |
 
 ## Intro Rooms
 
@@ -109,6 +110,14 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Basics Rooms
 
+- [ ] [TryHackMe | Operating Systems: Introduction](https://tryhackme.com/room/operatingsystemsintroduction)
+- [ ] [TryHackMe | Windows Basics](https://tryhackme.com/room/windowsbasics)
+- [ ] [TryHackMe | Data Representation](https://tryhackme.com/room/datarepresentation)
+- [ ] [TryHackMe | Data Encoding](https://tryhackme.com/room/dataencoding)
+- [ ] [TryHackMe | The CIA Triad](https://tryhackme.com/room/theciatriad)
+- [ ] [TryHackMe | Inside a Computer System](https://tryhackme.com/room/insideacomputer)
+- [ ] [TryHackMe | Computer Types](https://tryhackme.com/room/computertypes)
+- [ ] [TryHackMe | Virtualisation Basics](https://tryhackme.com/room/virtualisationbasics)
 - [ ] [TryHackMe | Writing Pentest Reports](https://tryhackme.com/room/writingpentestreports)
 - [ ] [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
 - [ ] [TryHackMe | Insecure Randomness](https://tryhackme.com/room/insecurerandomness)
@@ -196,6 +205,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Cryptography & Hashes
 
+- [ ] [TryHackMe | Cryptography Concepts](https://tryhackme.com/room/cryptographyconcepts)
 - [ ] [TryHackMe | Breaking Crypto the Simple Way](https://tryhackme.com/room/breakingcryptothesimpleway)
 - [ ] [TryHackMe | Crypto Failures](https://tryhackme.com/room/cryptofailures)
 - [ ] [TryHackMe | Breaking RSA](https://tryhackme.com/room/breakrsa)
@@ -396,6 +406,10 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Windows
 
+- [ ] [TryHackMe | M365 Monitoring Basics](https://tryhackme.com/room/m365monitoringbasics)
+- [ ] [TryHackMe | Monitoring Active Directory](https://tryhackme.com/room/monitoringactivedirectory)
+- [ ] [TryHackMe | Entra ID Monitoring](https://tryhackme.com/room/entraidmonitoring)
+- [ ] [TryHackMe | Microsoft Intune Monitoring](https://tryhackme.com/room/msintunemonitoring)
 - [ ] [TryHackMe | Windows Logging for SOC](https://tryhackme.com/room/windowsloggingforsoc)
 - [ ] [TryHackMe | Windows Threat Detection 1](https://tryhackme.com/room/windowsthreatdetection1)
 - [ ] [TryHackMe | XDR: Introduction](https://tryhackme.com/room/xdrintroduction)
@@ -713,6 +727,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Misc
 
+- [ ] [TryHackMe | GeoServer: CVE-2025-58360](https://tryhackme.com/room/geoservercve202558360)
 - [ ] [TryHackMe | Next.js: CVE-2025-29927](https://tryhackme.com/room/nextjscve202529927)
 - [ ] [TryHackMe | Spring4Shell: CVE-2022-22965](https://tryhackme.com/room/spring4shell)
 - [ ] [TryHackMe | PrintNightmare](https://tryhackme.com/room/printnightmarehpzqlp8)
@@ -775,6 +790,11 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | Conti](https://tryhackme.com/room/contiransomwarehgh)
 - [ ] [TryHackMe | Dirty Pipe: CVE-2022-0847](https://tryhackme.com/room/dirtypipe)
 - [ ] [TryHackMe | The find command](https://tryhackme.com/room/thefindcommand)
+
+## Cloud
+
+- [ ] [TryHackMe | Cloud Computing Fundamentals](https://tryhackme.com/room/cloudcomputingfundamentals)
+- [ ] [TryHackMe | Cloud Security Pitfalls](https://tryhackme.com/room/cloudsecuritypitfalls)
 
 ## Special Events
    
